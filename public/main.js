@@ -30,3 +30,5 @@ const context = {
     },
   ],
 };
+
+const templateElement = document.getElementById(templateHB);
